@@ -14,7 +14,7 @@ Spin City Records is a peer-to-peer vinyl e-marketplace built using TypeScript a
 
 ## Deployment
 
-The application is deployed using Vercel and can be accessed at [https://spin-city-records-gamma.vercel.app/](https://spin-city-records-gamma.vercel.app/). 
+The application is deployed using Vercel and can be accessed at [https://spin-city-records-gamma.vercel.app/](https://spin-city-records-gamma.vercel.app/).
 
 ## Installation
 
@@ -24,6 +24,7 @@ To run the application locally, follow these steps:
 2. Navigate to the project directory: `cd spin-city-records`
 3. Install dependencies: `npm install`
 4. Set up the environment variables:
+
    - Create a `.env` file in the root directory with the following format:
 
      ```
@@ -49,7 +50,6 @@ To run the application locally, follow these steps:
 To explore the database, run the following command:
 `npx prisma studio`
 
-
 ## Usage
 
 - Register an account or log in to an existing account.
@@ -59,14 +59,11 @@ To explore the database, run the following command:
 - Manage your vinyl records listings and transactions in your user dashboard.
 - Explore additional features such as adding albums to your favorites.
 
-## Contributing
+## Contributors
 
-We welcome contributions to improve the Spin City Records application. To contribute, please follow these steps:
+This project was a joint collaboration with the following contributors:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Submit a pull request.
-
-
+- Angus Mellor
+- Erban Danaj
+- Luis Carrasco Montero
+- Kevin Strange
